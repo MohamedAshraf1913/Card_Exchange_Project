@@ -1,0 +1,6 @@
+package ENUMs;
+
+public enum MessageFunction1Code {
+	AUTQ, AUTP, FAUQ, FAUP, CMPV, CMPK, FCMV, FCMK, RVRA, RVRR, FRVA, FRVR,
+	CCAQ, CCAP, CCAV, CCAK, DGNP, DGNQ, RCLQ, RCLP, RJCT
+}
